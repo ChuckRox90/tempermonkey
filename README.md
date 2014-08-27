@@ -1,3 +1,8 @@
+Verson:
+ - Beta 0.9
+ - open for usertest
+ - please comment and repot bugs =)
+
 Info:
  - the script dose NOT store or forward any userinformation
 
@@ -9,12 +14,8 @@ Features:
  - auto format your exams in a better list
  - allows to sort your exams 
  - stores the last filter and applyes after manual or auto refresh
-
-
-Coming soon:
-
- - add filter
- - add marking
+ - filter your examlist
+ - highlight your exams
 
 
 How to install:
