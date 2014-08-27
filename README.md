@@ -3,8 +3,10 @@ Verson:
  - open for usertest
  - please comment and repot bugs =)
 
+
 Info:
  - the script dose NOT store or forward any userinformation
+ - filter and highlight and examlist is stored in the localStorage to detect changes
 
 
 Features:
