@@ -10,7 +10,9 @@ Info:
 Features:
   
  - auto refresh your page every 60 seconds ( no timeout anymore )
- - auto detect changes and send an alert for new exams
+ - auto detect changes
+ - auto highlight changes
+ - auto play sound after changes
  - auto format your exams in a better list
  - allows to sort your exams 
  - stores the last filter and applyes after manual or auto refresh
